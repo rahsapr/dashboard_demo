@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body,#root{height:100%}
+body{background: #f7fafc}
+
+.btn-primary{background:linear-gradient(90deg,#06b6d4,#7c3aed);color:white;padding:.5rem 1rem;border-radius:.5rem}
