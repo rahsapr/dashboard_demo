@@ -1,0 +1,4 @@
+taskId,title,assignee,startDate,dueDate,status,percentComplete
+T1,Migrate billing,user.a@company.com,2025-06-01,2025-09-01,In Progress,45
+T2,Integrate payments,user.b@company.com,2025-05-01,2025-08-15,Blocked,20
+T3,QA regression,user.c@company.com,2025-07-01,2025-07-30,Complete,100
